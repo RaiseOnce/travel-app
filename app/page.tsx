@@ -8,8 +8,8 @@ export default function Home() {
   return (
     <>
       <Hero />
-      {/* <Camp />
-      <Guide />
+      <Camp />
+      {/* <Guide />
       <Features />
       <GetApp /> */}
     </>
